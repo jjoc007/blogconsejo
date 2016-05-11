@@ -22,15 +22,15 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 //define('DB_NAME', 'concejoBta');
-define('DB_NAME', 'lw3ux1o16jcodwow');
+define('DB_NAME', 'nqaj81qqtfm0njat');
 
 /** MySQL database username */
 //define('DB_USER', 'root');
-define('DB_USER', 'ktfudvt4llbmrq69');
+define('DB_USER', 'tfjq5mmigkqe265s');
 
 /** MySQL database password */
 //define('DB_PASSWORD', '');
-define('DB_PASSWORD', 'ian40dvqijehj4t7');
+define('DB_PASSWORD', 'd7et4ehk8j3v9s46');
 
 /** MySQL hostname */
 //define('DB_HOST', 'localhost');
